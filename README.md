@@ -1,5 +1,5 @@
 ## Recreating Our Social Media App
-
+![](http://cdn.cfo.com/content/uploads/2015/08/Social-Media.jpg)
 ### Adding a User Model
 
 Today's Goal is to incorporate a User model into your social media apps. 
