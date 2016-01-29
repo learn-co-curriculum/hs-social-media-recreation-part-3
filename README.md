@@ -32,4 +32,4 @@ Today's Goal is to incorporate a User model into your social media apps.
 
 
 
-<a href='https://learn.co/lessons/hs-social-media-recreation-part-3' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-social-media-recreation-part-3' title='Recreating Our Social Media App'>Recreating Our Social Media App</a> on Learn.co and start learning to code for free.</p>
